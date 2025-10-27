@@ -32,3 +32,9 @@ Name	  |  Class  |Seat
 Franklin|	second  | 91A
 Hardeep	| third   | 61F
 Marla		| first   | 35B
+# October 27, 2025
+Name	   |    Main dish    |Side dish
+ ------ | --------------- | -----------------
+Fiona   |	   Gado Gado    |	Creme Brulee
+Tobias 	|  Shrimp Ceviche |	French Apple Cake
+Leanne		| Beef Wellington |	Raspberry Tiramisu
