@@ -38,3 +38,6 @@ Name	   |    Main dish    |Side dish
 Fiona   |	   Gado Gado    |	Creme Brulee
 Tobias 	|  Shrimp Ceviche |	French Apple Cake
 Leanne		| Beef Wellington |	Raspberry Tiramisu
+# November 3, 2025
+Prompt: Helping S.N.A.P.
+S.N.A.P. is a prgram that helps millions of families buy groceries each month, so when funding runs out, many people struggle to afford healthy food. If S.N.A.P. runs out of funding, it WILL effect people at their lowest, those that are struggling to even get by. We can help prevent this by spreading awarness, sharing this information to those that need it. We can share this helpful information through the internet through websites or apps, and if people can't access them, we can share it through papers and billboards. If I had to create a tool to solve food insecurities, I would call it "feeding needs", something simple so people can remember. The tool would show places that can help with food, like soup kitchens, and point to ways to live with less stress.
