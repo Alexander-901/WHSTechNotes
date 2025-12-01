@@ -46,3 +46,6 @@ Depending on how technology is used, life can improve and feel more better. For 
 # November 17, 2025
 Prompt: Are you looking forward to Thanksgiving break?
 Yes I am looking forward to thanksgiving. I'm sure this break will give us the recovery we need from school. Yet it's a mere week away, an entire 5 school days away, yeesh.
+# December 1, 2025
+Prompt: what is One real job that uses drones
+Drones are used in many jobs across the world, from deliver to war. One of these jobs that use drones include farming and agriculture. Farmers use drones to both watch over livestock and feeding crops water and fertilizer. Farmers use drones to make their job easier and more efficient. According to this (https://krcrtv.com/news/local/farmers-turn-to-drones-to-cut-costs-amid-rising-expenses) article, farmers save atleast 25% on labor and material costs, making drones a way to make work eaiser. Drones also help with work by keeping a constant eye on livestock, making sure they are well and being able to show if they're sick.
