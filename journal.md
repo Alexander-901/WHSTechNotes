@@ -52,3 +52,6 @@ Drones are used in many jobs across the world, from deliver to war. One of these
 # December 8, 2025
 Prompt: Waymo Cars & School Bus Safety
 The problem the car might've ran into was the lack of information that has been given to the AI. An AI needs to learn by feeding off the information given to them. The self driving cars were probably only given basic driving skills without the knowledge of how to handle schoolbusses, thus, they ignore the busses entirely, thinking their only another car. If I had to develop the AI's sensors and cameras, there would be more recognition towards school busses. They would detect the color, then the shape of the bus, then the actions the bus is doing, like driving or stopping. This should let the AI be able to detect wether or not if the bus is stopped to pick up kids, driving, or just stopped.
+# December 15, 2025
+Prompt: What are your plans for the Winter Break?
+TO LIVE! TO NOT BE CONFINED TO SCHOOL AND DO WHAT I WANT TO DO. I WANT TO BE FREE FROM THIS DREAD OF SCHOOL THAT I FEEL. FREEDOM IS SO CLOSE YET OH SO FAR. I WANT TO BE FREE WITH FAMILY AND FRIENDS INSTEAD OF DOING SCHOOL WITH NO EMOTION. Oh and I guess celebrate christmas and new years with extra family.
