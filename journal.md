@@ -55,3 +55,6 @@ The problem the car might've ran into was the lack of information that has been 
 # December 15, 2025
 Prompt: What are your plans for the Winter Break?
 TO LIVE! TO NOT BE CONFINED TO SCHOOL AND DO WHAT I WANT TO DO. I WANT TO BE FREE FROM THIS DREAD OF SCHOOL THAT I FEEL. FREEDOM IS SO CLOSE YET OH SO FAR. I WANT TO BE FREE WITH FAMILY AND FRIENDS INSTEAD OF DOING SCHOOL WITH NO EMOTION. Oh and I guess celebrate christmas and new years with extra family.
+# January 6, 2026
+Prompt: describing how you used technology over the break.
+I used technolgy to communicate with friends and family throughout the break, both on holidays and for fun. But while on break, technolgy was used around me, from cars, gps, slideshow presentations, and general fun. Other than those uses, i just enjoyed life with family in Georgia, it felt calmer with more family around.
