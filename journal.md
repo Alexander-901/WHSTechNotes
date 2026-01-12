@@ -58,3 +58,6 @@ TO LIVE! TO NOT BE CONFINED TO SCHOOL AND DO WHAT I WANT TO DO. I WANT TO BE FRE
 # January 6, 2026
 Prompt: describing how you used technology over the break.
 I used technolgy to communicate with friends and family throughout the break, both on holidays and for fun. But while on break, technolgy was used around me, from cars, gps, slideshow presentations, and general fun. Other than those uses, i just enjoyed life with family in Georgia, it felt calmer with more family around.
+# January 12, 2026
+Prompt: Why was Autcraft created, and what problem was it solving?
+Autcraft is a Minecraft server made as a safe space for children with autism. The server is meant to be a moderated, and safe welcoming online space for autistic children. Autcraft is a great example of a safe space as doing the opposite of their design can leave many vulnerable to threats and attacks. If developers leave spaces ignored and unmoderated, it leaves free reign for those with malicious intent to send threats, bully, and even endanger those in "safe" spaces that were vunerable. Autcraft made a good example of a safe space as it keeps its people safe in their spaces by moderating it, making and enforcing rules for peoples safety, and overall, making it a nice place to be in.
