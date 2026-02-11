@@ -67,6 +67,11 @@ Technology (if used correctly) can spread awarness of news, share plans, and pro
 # January 29, 2026
 Prompt: For Students Who Tested (MAP or TSI), how did it go?
 I wasn't given a test, it was just boring. Granted I did miss tuesday but on wednesday, I just sat in a room as I passed it last year, so it was a whole lot of nothing. It was just a nothing day aswell, no work was given as it was testing. The most positive there was on that day was that a friend of mine was there. I'm struggling to stretch the fact I didn't test into 5 sentnces as again, I didn't test.
-# February 2, 2025
+# February 2, 2026
 Prompt: Reflect on what it means to behave professionally in shared spaces such as classrooms, offices, or work sites.
 Professional behavior involves many things that should be standard in any setting that people are in. From school, work, confrences, and meetings, professional behavior is wanted and sometimes required. These behaviors include hygine, social skills, respectfulness, self-awarness, personal space, and self-regulation. Startintg with the person, being clean and respectful is desired by people you're with, sometimes even required as it could be a health hazard to people around you, both from smell or inciting violence. Then we go to the people, where respect comes through volume. People like if you're speaking in a regular voice instead of shouting while next to someone, which can relate to self-regulation. Self-regulation is what people use to control how they are saying something from tone, volume, and even words that are said. For professional behavior, these are needed, for me, I feel like I just need to be more social.
+# February 10, 2026
+Prompt: Three questions about football
+1: I'm not a big fan of wathcing football as I'm not into the appeal of football.
+2: I did not watch the Super Bowl LX.
+3: No opinion
