@@ -75,3 +75,22 @@ Prompt: Three questions about football
 1: I'm not a big fan of wathcing football as I'm not into the appeal of football.
 2: I did not watch the Super Bowl LX.
 3: No opinion
+# March 2, 2026
+Prompt: tech jobs in san antonio.
+job #1:
+* Company: Core4ce
+* Job Title: Cybersecurity Project Engineers
+* Education Required: Bachelor’s Degree
+* Experience Required: 2–10+ years of experience in IT
+* Tools: Cyber, Analytics, Engineering, and Mission Solutions
+* Certifications (if any): DoD 8570/8140 IAT Level II or III certifications
+* What the job does (1–2 sentences): They do national security and defense by checking for vulnerabilities. They support the department of defence, making them an important job for the hire and the nation.
+
+Job #2
+* Company: UBEO, LLC
+* Job Title: Field Service Technician
+* Education Required: A high school diploma and a Bachelor’s degree
+* Experience Required: 2–4+ years of B2B sales
+* Tools: multifunction copiers, production printers
+* Certifications (if any): A+ Certification
+* What the job does (1–2 sentences): They help document and print information. because of this, they are important with work flow and data management 
