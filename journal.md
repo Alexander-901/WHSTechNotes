@@ -94,3 +94,6 @@ Job #2
 * Tools: multifunction copiers, production printers
 * Certifications (if any): A+ Certification
 * What the job does (1–2 sentences): They help document and print information. because of this, they are important with work flow and data management 
+# March 24, 2026
+Prompt: Think about your own bracket and the results from the first weekend of the tournament.
+My bracket was pretty awful looking back at it. It was mostly guesses and occasionally asking people how the team is. I don't even watch sports so whatever the outcome was neither surprised nor not surprised me. However this kind of algorithm can be improved and help a lot with seeing who wins. Taking data and information of the teams can help predict who wins, and by using a program can make this proccess more smoother. With these programs, merchandise can be sold about the winning team, creating job opportunities.
