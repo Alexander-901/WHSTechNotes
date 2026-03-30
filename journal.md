@@ -97,3 +97,6 @@ Job #2
 # March 24, 2026
 Prompt: Think about your own bracket and the results from the first weekend of the tournament.
 My bracket was pretty awful looking back at it. It was mostly guesses and occasionally asking people how the team is. I don't even watch sports so whatever the outcome was neither surprised nor not surprised me. However this kind of algorithm can be improved and help a lot with seeing who wins. Taking data and information of the teams can help predict who wins, and by using a program can make this proccess more smoother. With these programs, merchandise can be sold about the winning team, creating job opportunities.
+# March 30, 2026
+Prompt: March Madness deep thinking.
+I'm STILL not a sports watcher, I don't know what will or even did happen since I don't watch that stuff. However, this class is about coding and here, we predict scores, which can fail. Many of the ways predictions can fail is by the unexpected, such as injuries, interference from nature and fans, weather, and general player mistakes. Even with everything accounted for, life is unpredictable, it can't be fully predicted because life can just, happen. Computer programs can help with predictions however. It won't be exact but it can give a broad statement and idea for who can possible win.
