@@ -110,3 +110,6 @@ No they are not. While modern technology is very advance, Mars is a very differe
 # April 20, 2026
 Prompt: In your opinion, how does AI change the way people experience and trust content like music and media?
 AI content is already horrible on it's own, both in content and it's making. AI content becomes worse when it influences people. With more content one consumes that is made by AI, the more they come to favor it, ignoring man made productions for AI sentences. Depending on who's making it, AI content can spread an agenda, a belief at a mass produced level, causing whoever watches them to side more and more on that side. In my belief, AI should be used as a tool, not the main asset on the project that doesn't require human input apart from a prompt, which could lead to a horrible pathway for everyone.
+# April 27, 2026
+Prompt: Think about something YOU paid attention to this week. How did technology influence it?
+The most I've paid attention to in technology this week has been on school and personal projects. For starters, this very paragraph is made using technology, along with other classes. Secondly, my personal projects are heavily based on technology. From editing to creation, technology was a big part of it. From this week to next year, technology is still gonna be a big part in everyones life.
