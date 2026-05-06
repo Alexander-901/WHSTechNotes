@@ -113,3 +113,6 @@ AI content is already horrible on it's own, both in content and it's making. AI 
 # April 27, 2026
 Prompt: Think about something YOU paid attention to this week. How did technology influence it?
 The most I've paid attention to in technology this week has been on school and personal projects. For starters, this very paragraph is made using technology, along with other classes. Secondly, my personal projects are heavily based on technology. From editing to creation, technology was a big part of it. From this week to next year, technology is still gonna be a big part in everyones life.
+# May 6, 2026
+Prompt: Are you personally helping train AI systems through the apps and tools you use?
+I don't believe that I personally train an AI system from my activities. While it is possible, I don't think I train many AI systems. What I do can't even be used with AI, as all of it is junk for the AI to not even use. AI is something that could've been useful but got pushed to heavily on everything. Now all it's known for is helping kids cheat and messing up the environment.
