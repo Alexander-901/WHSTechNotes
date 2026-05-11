@@ -116,3 +116,6 @@ The most I've paid attention to in technology this week has been on school and p
 # May 6, 2026
 Prompt: Are you personally helping train AI systems through the apps and tools you use?
 I don't believe that I personally train an AI system from my activities. While it is possible, I don't think I train many AI systems. What I do can't even be used with AI, as all of it is junk for the AI to not even use. AI is something that could've been useful but got pushed to heavily on everything. Now all it's known for is helping kids cheat and messing up the environment.
+# May 11, 2026
+Prompt: Reflect on Your growth over the year.
+I didn't feel much growth on skill. Although that might've been on fault of my mentallity for school, to do it and get out. Just waiting on the clock to strike to the next class, then the nect, then the next, then the next, then I get to go home. The most I've grown on is on relationships with people, and I feel that's the most I've grown in this school. The summer is soon here, and I hope nothing emerges that will ruin it for all of us.
