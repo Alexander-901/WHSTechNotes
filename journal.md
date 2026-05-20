@@ -119,6 +119,6 @@ I don't believe that I personally train an AI system from my activities. While i
 # May 11, 2026
 Prompt: Reflect on Your growth over the year.
 I didn't feel much growth on skill. Although that might've been on fault of my mentallity for school, to do it and get out. Just waiting on the clock to strike to the next class, then the nect, then the next, then the next, then I get to go home. The most I've grown on is on relationships with people, and I feel that's the most I've grown in this school. The summer is soon here, and I hope nothing emerges that will ruin it for all of us.
-# May 11, 2026
+# May 18, 2026
 Prompt: Missing person trend.
 I don't feel like I know anyone here that well to be able to describe them in this trend. This is probably the one journal I wasn't able to try in.
